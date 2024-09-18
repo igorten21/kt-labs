@@ -1,3 +1,5 @@
+package laba5
+
 fun main(){
     print("enter number: ")
     var n= readln().toInt()

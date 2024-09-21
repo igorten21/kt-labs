@@ -7,7 +7,6 @@ fun main(){
     val b = readln().toInt()
     print("enter third number: ")
     val c = readln().toInt()
-    println("you entered - $a, $b, $c")
 
     if (a>b && a<c)
         println("average number: $a")

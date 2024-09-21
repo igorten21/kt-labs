@@ -6,7 +6,6 @@ fun main(){
     val a = readln().toInt()
     print("enter second number: ")
     val b = readln().toInt()
-    println("you entered - $a, $b")
 
     if (a%2==0 && b%2!=0)
         println("$a is an even number")

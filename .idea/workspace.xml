@@ -4,8 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa5d977e-18e9-4db6-bd74-55c73ba3c7e8" name="Changes" comment="updated information">
+    <list default="true" id="a761478b-0f9d-486d-8b67-7e6038487033" name="Changes" comment="info updated">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kotlin-labs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba3/laba3-10.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba3/laba3-11a.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba3/laba3-11b.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba3/laba3-12.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba3/laba3-13a.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba3/laba3-13b.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba3/laba3-13c.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba3/laba3-13d.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba3/laba3-4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba3/laba3-5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba3/laba3-6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba3/laba3-7a.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba3/laba3-7b.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba3/laba3-8.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba3/laba3-9.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba4/laba4-1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba4/laba4-10.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba4/laba4-2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba4/laba4-3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba4/laba4-4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba4/laba4-5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba4/laba4-6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba4/laba4-7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba4/laba4-8.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba4/laba4-9.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/laba3/laba3-1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/laba3/laba3-1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/laba3/laba3-2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/laba3/laba3-2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/laba3/laba3-3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/laba3/laba3-3.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,14 +52,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <branch-grouping />
-    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -38,12 +72,10 @@
   }
 }</component>
   <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;03a7ffff&quot;,
-  &quot;associatedIndex&quot;: 6
+  &quot;associatedIndex&quot;: 7
 }</component>
-  <component name="ProjectId" id="2mEpzYhUn99XBeoMBlC9tSiWb8C" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting value="false" id="Update" />
+  <component name="ProjectId" id="2mN8xlIHDsLInBbR5K7mTL2hyZ6" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -52,146 +84,65 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;Kotlin.Laba3_1Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Laba3_2Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Laba3_3Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba3_10Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba3_11bKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba3_13Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba3_4Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba3_5Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba3_6Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba3_7aKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba3_7bKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba3_8Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba3_9Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba4_1Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba4_4Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba4_5Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba4_7Kt.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/iten2/IdeaProjects/kt-labs&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/iten2/IdeaProjects/kt-labs/src/Main.kt&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/iten2/IdeaProjects/kotlin-labs/src/laba3&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/iten2/IdeaProjects/kotlin-labs/src/Main.kt&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
   }
 }</component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\iten2\IdeaProjects\kt-labs\src\laba5" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\iten2\IdeaProjects\kotlin-labs\src\laba3" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="kt-labs" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="kt-labs" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fa5d977e-18e9-4db6-bd74-55c73ba3c7e8" name="Changes" comment="" />
-      <created>1726651852942</created>
+      <changelist id="a761478b-0f9d-486d-8b67-7e6038487033" name="Changes" comment="" />
+      <created>1726905944043</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1726651852942</updated>
+      <updated>1726905944043</updated>
     </task>
-    <task id="LOCAL-00001" summary="add files">
+    <task id="LOCAL-00001" summary="a">
       <option name="closed" value="true" />
-      <created>1726652178810</created>
+      <created>1726905976053</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1726652178810</updated>
+      <updated>1726905976053</updated>
     </task>
-    <task id="LOCAL-00002" summary="moved laba5-* files to its folder">
+    <task id="LOCAL-00002" summary="info updated">
       <option name="closed" value="true" />
-      <created>1726652686179</created>
+      <created>1726911073827</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1726652686179</updated>
+      <updated>1726911073827</updated>
     </task>
-    <task id="LOCAL-00003" summary="add files">
-      <option name="closed" value="true" />
-      <created>1726904268590</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1726904268590</updated>
-    </task>
-    <task id="LOCAL-00004" summary="add files">
-      <option name="closed" value="true" />
-      <created>1726904319183</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1726904319183</updated>
-    </task>
-    <task id="LOCAL-00005" summary="added strings to ignore unnecessary files">
-      <option name="closed" value="true" />
-      <created>1726904424185</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1726904424185</updated>
-    </task>
-    <task id="LOCAL-00006" summary="updated information">
-      <option name="closed" value="true" />
-      <created>1726904672004</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1726904672004</updated>
-    </task>
-    <task id="LOCAL-00007" summary="updated information">
-      <option name="closed" value="true" />
-      <created>1726904760300</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1726904760300</updated>
-    </task>
-    <task id="LOCAL-00008" summary="updated information">
-      <option name="closed" value="true" />
-      <created>1726905857065</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1726905857065</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="CUSTOM_BOOLEAN_PROPERTIES">
-                <map>
-                  <entry key="Show.Git.Branches" value="true" />
-                </map>
-              </option>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="HEAD" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="moved laba5-* files to its folder" />
-    <MESSAGE value="add files" />
-    <MESSAGE value="added strings to ignore unnecessary files" />
-    <MESSAGE value="updated information" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated information" />
+    <MESSAGE value="a" />
+    <MESSAGE value="info updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="info updated" />
   </component>
 </project>

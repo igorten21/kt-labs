@@ -5,6 +5,7 @@ out/
 
 ### Kotlin ###
 .kotlin
+kt-labs.iml
 
 ### Eclipse ###
 .apt_generated

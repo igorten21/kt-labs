@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a761478b-0f9d-486d-8b67-7e6038487033" name="Changes" comment="aaaaaa">
-      <change afterPath="$PROJECT_DIR$/src/laba2/laba2-2-l.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba2/laba2-3-l.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba2/laba2-4-l.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba2/laba2-5-l.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba2/laba2-6-l.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba2/laba2-7-l.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba4/laba4-12.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba4/laba4-13.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba5/laba5-10.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba5/laba5-11.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/laba2/laba2-1-l.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/laba2/laba2-1-l.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/laba4/laba4-11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/laba4/laba4-11.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/laba5/laba5-10.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/laba5/laba5-10.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/laba5/laba5-9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/laba5/laba5-9.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -148,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727001438998</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="aaaaaa">
+      <option name="closed" value="true" />
+      <created>1727006393078</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727006393078</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

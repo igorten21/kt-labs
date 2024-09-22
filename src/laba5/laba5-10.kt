@@ -6,7 +6,7 @@ fun main() {
     val n = readln()
     var sum = 0
     for(i in n)
-        sum += i.toInt()
+        sum += i.toString().toInt()
 
     println("sum of digits: $sum")
 

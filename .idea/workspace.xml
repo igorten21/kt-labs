@@ -5,8 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a761478b-0f9d-486d-8b67-7e6038487033" name="Changes" comment="aaaaaa">
-      <change beforePath="$PROJECT_DIR$/src/laba5/laba5-10.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/laba5/laba5-10.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/laba5/laba5-9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/laba5/laba5-9.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba5/laba5-12.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba5/laba5-13.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba5/laba5-14.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba5/laba5-15.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba5/laba5-16.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba5/laba5-17.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba5/laba5-18.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba5/laba5-19.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba5/laba5-20.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba5/laba5-21.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba5/laba5-22.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba5/laba5-23.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba5/laba5-24.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba5/laba5-25.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba5/laba5-26.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba5/laba5-27.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba5/laba5-28.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba5/laba5-29.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba5/laba5-30.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/laba5/laba5-11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/laba5/laba5-11.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +95,15 @@
     "Kotlin.Laba4_5Kt.executor": "Run",
     "Kotlin.Laba4_7Kt.executor": "Run",
     "Kotlin.Laba5_10Kt.executor": "Run",
+    "Kotlin.Laba5_12Kt.executor": "Run",
+    "Kotlin.Laba5_13Kt.executor": "Run",
+    "Kotlin.Laba5_14Kt.executor": "Run",
+    "Kotlin.Laba5_15Kt.executor": "Run",
+    "Kotlin.Laba5_16Kt.executor": "Run",
+    "Kotlin.Laba5_17Kt.executor": "Run",
+    "Kotlin.Laba5_18Kt.executor": "Run",
+    "Kotlin.Laba5_19Kt.executor": "Run",
+    "Kotlin.Laba5_20Kt.executor": "Run",
     "Kotlin.Laba5_6Kt.executor": "Run",
     "Kotlin.Laba5_7Kt.executor": "Run",
     "Kotlin.Laba5_8Kt.executor": "Run",
@@ -144,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727006393078</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="aaaaaa">
+      <option name="closed" value="true" />
+      <created>1727006471115</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727006471115</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

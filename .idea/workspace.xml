@@ -5,31 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a761478b-0f9d-486d-8b67-7e6038487033" name="Changes" comment="aaaaaa">
-      <change afterPath="$PROJECT_DIR$/src/laba1/laba1-1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba1/laba1-10.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba1/laba1-11.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba1/laba1-12.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba1/laba1-2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba1/laba1-3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba1/laba1-4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba1/laba1-5.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba1/laba1-6.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba1/laba1-7.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba1/laba1-8.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba1/laba1-9.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba2/laba2-1-l.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba2/laba2-1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba2/laba2-2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba2/laba2-3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba2/laba2-4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba2/laba2-5.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba5/laba5-8.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba5/laba5-9.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba2/laba2-2-l.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba2/laba2-3-l.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba2/laba2-4-l.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba2/laba2-5-l.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba2/laba2-6-l.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba2/laba2-7-l.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba4/laba4-12.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba4/laba4-13.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba5/laba5-10.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba5/laba5-11.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/laba5/laba5-6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/laba5/laba5-6.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/laba5/laba5-7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/laba5/laba5-7.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/laba2/laba2-1-l.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/laba2/laba2-1-l.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/laba4/laba4-11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/laba4/laba4-11.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/laba5/laba5-9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/laba5/laba5-9.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +47,9 @@
     &quot;accountId&quot;: &quot;73c298b8-5d85-4f2b-b66c-ffc4ae3acf1d&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -78,6 +70,7 @@
     "Kotlin.Laba1_6Kt.executor": "Run",
     "Kotlin.Laba1_7Kt.executor": "Run",
     "Kotlin.Laba1_8Kt.executor": "Run",
+    "Kotlin.Laba2_1_lKt.executor": "Run",
     "Kotlin.Laba2_4Kt.executor": "Run",
     "Kotlin.Laba2_5Kt.executor": "Run",
     "Kotlin.Laba3_10Kt.executor": "Run",
@@ -94,20 +87,23 @@
     "Kotlin.Laba4_4Kt.executor": "Run",
     "Kotlin.Laba4_5Kt.executor": "Run",
     "Kotlin.Laba4_7Kt.executor": "Run",
+    "Kotlin.Laba5_10Kt.executor": "Run",
     "Kotlin.Laba5_6Kt.executor": "Run",
     "Kotlin.Laba5_7Kt.executor": "Run",
     "Kotlin.Laba5_8Kt.executor": "Run",
+    "Kotlin.Laba5_9Kt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/iten2/IdeaProjects/kotlin-labs/src/laba3",
+    "last_opened_file_path": "C:/Users/iten2/IdeaProjects/kotlin-labs/src/laba2",
     "onboarding.tips.debug.path": "C:/Users/iten2/IdeaProjects/kotlin-labs/src/Main.kt",
     "settings.editor.selected.configurable": "fileTemplates"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\iten2\IdeaProjects\kotlin-labs\src\laba2" />
       <recent name="C:\Users\iten2\IdeaProjects\kotlin-labs\src\laba3" />
     </key>
   </component>
@@ -144,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726927288466</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="aaaaaa">
+      <option name="closed" value="true" />
+      <created>1727001438998</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727001438998</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a761478b-0f9d-486d-8b67-7e6038487033" name="Changes" comment="aaaaaa">
-      <change afterPath="$PROJECT_DIR$/src/laba6/laba6-1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba6/laba6-2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba6/laba6-3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba6/laba6-4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba6/laba6-5.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba6/laba6-6.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba6/laba6-7.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba6/laba6-8.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba6/laba6-9.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba6/laba6-17.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba6/laba6-18.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba6/laba6-19.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba6/laba6-20.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba6/laba6-21.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba6/laba6-22.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,14 +94,24 @@
     "Kotlin.Laba5_7Kt.executor": "Run",
     "Kotlin.Laba5_8Kt.executor": "Run",
     "Kotlin.Laba5_9Kt.executor": "Run",
+    "Kotlin.Laba6_12Kt.executor": "Run",
+    "Kotlin.Laba6_13Kt.executor": "Run",
+    "Kotlin.Laba6_14Kt.executor": "Run",
+    "Kotlin.Laba6_16Kt.executor": "Run",
+    "Kotlin.Laba6_17Kt.executor": "Run",
+    "Kotlin.Laba6_18Kt.executor": "Run",
+    "Kotlin.Laba6_19Kt.executor": "Run",
     "Kotlin.Laba6_1Kt.executor": "Run",
+    "Kotlin.Laba6_20Kt.executor": "Run",
+    "Kotlin.Laba6_21Kt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/iten2/IdeaProjects/kotlin-labs/src/laba2",
+    "last_opened_file_path": "C:/Users/iten2/IdeaProjects/kotlin-labs",
     "onboarding.tips.debug.path": "C:/Users/iten2/IdeaProjects/kotlin-labs/src/Main.kt",
-    "settings.editor.selected.configurable": "fileTemplates"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -186,8 +193,27 @@
       <option name="project" value="LOCAL" />
       <updated>1727013797516</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="aaaaaa">
+      <option name="closed" value="true" />
+      <created>1727094405094</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727094405094</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="a" />

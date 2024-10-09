@@ -2,7 +2,7 @@ package laba9
 
 fun main() {
     print("enter range: ")
-    val n = readlnOrNull()?.toIntOrNull() ?: 10
+    val n = readlnOrNull()?.toIntOrNull() ?: 0
     val list: MutableList<Boolean> = MutableList(n) { true }
 
     for (i in 2..n - 1) {

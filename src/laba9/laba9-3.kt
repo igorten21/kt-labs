@@ -7,6 +7,6 @@ fun dollarToEuro(dollar: Double): Double {
 }
 
 fun main() {
-    print("enter usd: "); val n = readln().toInt()
+    print("enter usd: "); val n = readln().toDouble()
     println(dollarToEuro(n))
 }

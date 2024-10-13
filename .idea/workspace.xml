@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a761478b-0f9d-486d-8b67-7e6038487033" name="Changes" comment="aaaaaa">
-      <change afterPath="$PROJECT_DIR$/src/laba6/laba6-17.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba6/laba6-18.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba6/laba6-19.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba6/laba6-20.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba6/laba6-21.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba6/laba6-22.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba10/laba10-1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba10/laba10-2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba10/laba10-3.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,66 +51,66 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Kotlin.Laba1_12Kt.executor": "Run",
-    "Kotlin.Laba1_1Kt.executor": "Run",
-    "Kotlin.Laba1_2Kt.executor": "Run",
-    "Kotlin.Laba1_3Kt.executor": "Run",
-    "Kotlin.Laba1_6Kt.executor": "Run",
-    "Kotlin.Laba1_7Kt.executor": "Run",
-    "Kotlin.Laba1_8Kt.executor": "Run",
-    "Kotlin.Laba2_1_lKt.executor": "Run",
-    "Kotlin.Laba2_4Kt.executor": "Run",
-    "Kotlin.Laba2_5Kt.executor": "Run",
-    "Kotlin.Laba3_10Kt.executor": "Run",
-    "Kotlin.Laba3_11bKt.executor": "Run",
-    "Kotlin.Laba3_13Kt.executor": "Run",
-    "Kotlin.Laba3_4Kt.executor": "Run",
-    "Kotlin.Laba3_5Kt.executor": "Run",
-    "Kotlin.Laba3_6Kt.executor": "Run",
-    "Kotlin.Laba3_7aKt.executor": "Run",
-    "Kotlin.Laba3_7bKt.executor": "Run",
-    "Kotlin.Laba3_8Kt.executor": "Run",
-    "Kotlin.Laba3_9Kt.executor": "Run",
-    "Kotlin.Laba4_1Kt.executor": "Run",
-    "Kotlin.Laba4_4Kt.executor": "Run",
-    "Kotlin.Laba4_5Kt.executor": "Run",
-    "Kotlin.Laba4_7Kt.executor": "Run",
-    "Kotlin.Laba5_10Kt.executor": "Run",
-    "Kotlin.Laba5_12Kt.executor": "Run",
-    "Kotlin.Laba5_13Kt.executor": "Run",
-    "Kotlin.Laba5_14Kt.executor": "Run",
-    "Kotlin.Laba5_15Kt.executor": "Run",
-    "Kotlin.Laba5_16Kt.executor": "Run",
-    "Kotlin.Laba5_17Kt.executor": "Run",
-    "Kotlin.Laba5_18Kt.executor": "Run",
-    "Kotlin.Laba5_19Kt.executor": "Run",
-    "Kotlin.Laba5_20Kt.executor": "Run",
-    "Kotlin.Laba5_6Kt.executor": "Run",
-    "Kotlin.Laba5_7Kt.executor": "Run",
-    "Kotlin.Laba5_8Kt.executor": "Run",
-    "Kotlin.Laba5_9Kt.executor": "Run",
-    "Kotlin.Laba6_12Kt.executor": "Run",
-    "Kotlin.Laba6_13Kt.executor": "Run",
-    "Kotlin.Laba6_14Kt.executor": "Run",
-    "Kotlin.Laba6_16Kt.executor": "Run",
-    "Kotlin.Laba6_17Kt.executor": "Run",
-    "Kotlin.Laba6_18Kt.executor": "Run",
-    "Kotlin.Laba6_19Kt.executor": "Run",
-    "Kotlin.Laba6_1Kt.executor": "Run",
-    "Kotlin.Laba6_20Kt.executor": "Run",
-    "Kotlin.Laba6_21Kt.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/iten2/IdeaProjects/kotlin-labs",
-    "onboarding.tips.debug.path": "C:/Users/iten2/IdeaProjects/kotlin-labs/src/Main.kt",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.Laba1_12Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba1_1Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba1_2Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba1_3Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba1_6Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba1_7Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba1_8Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba2_1_lKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba2_4Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba2_5Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba3_10Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba3_11bKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba3_13Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba3_4Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba3_5Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba3_6Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba3_7aKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba3_7bKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba3_8Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba3_9Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba4_1Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba4_4Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba4_5Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba4_7Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba5_10Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba5_12Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba5_13Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba5_14Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba5_15Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba5_16Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba5_17Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba5_18Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba5_19Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba5_20Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba5_6Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba5_7Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba5_8Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba5_9Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba6_12Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba6_13Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba6_14Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba6_16Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba6_17Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba6_18Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba6_19Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba6_1Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba6_20Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Laba6_21Kt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/iten2/IdeaProjects/kotlin-labs&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/iten2/IdeaProjects/kotlin-labs/src/Main.kt&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\iten2\IdeaProjects\kotlin-labs\src\laba2" />
@@ -201,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727094405094</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="aaaaaa">
+      <option name="closed" value="true" />
+      <created>1727599167311</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727599167311</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
